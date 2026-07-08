@@ -123,7 +123,7 @@ a{ color:inherit; text-decoration:none; }
   display:flex; align-items:center; justify-content:center; overflow:hidden;
 }
 .featured-thumb svg{ width:55%; height:55%; }
-.featured-thumb img{ width:100%; height:100%; object-fit:cover; }
+.featured-thumb img{ width:100%; height:100%; object-fit:contain; }
 .featured-meta{
   display:flex; align-items:center; gap:10px; margin-bottom:14px;
   font-family:var(--font-mono); font-size:11px; color:var(--muted);
