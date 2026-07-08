@@ -1,0 +1,93 @@
+[
+  {
+    "title": "How denizz Turned $60K Into $1.4M on Polymarket: The Strategy Behind the Biggest 'No' Trader",
+    "file": "posts/fade-the-headline-the-denizz-strategy.html",
+    "category": "strategy",
+    "thumb": "images/denizz.jpeg",
+    "date": "2026-07-07",
+    "popular": true,
+    "excerpt": "How one Polymarket trader turned geopolitical fear into a $1.4M run by fading dramatic headlines and betting that the biggest events would not happen on schedule."
+  },
+  {
+    "title": "This Wallet Made $1M in a Day... Then Disappeared",
+    "file": "posts/this-wallet-made-1m-then-disappeared.html",
+    "category": "strategy",
+    "thumb": "images/xaf.jpg",
+    "date": "2026-07-07",
+    "excerpt": "A Polymarket wallet went 22-for-23 on Google's Year in Search markets just before the results dropped, then vanished. Months later, federal prosecutors say they found out why."
+  },
+  {
+  "title": "Dude Turned $12 Into $109K In The BTC 5-Minute Market",
+  "file": "posts/dude-turned-12-into-109k-btc-5min.html",
+  "category": "strategy",
+  "thumb": "images/asc.jpg",
+  "date": "2026-07-07",
+  "excerpt": "A wallet took a $12.40 Bitcoin Up or Down bet, won, and pushed the entire payout into the next one — over and over, with no new money ever going in. The chain hit six figures. Here's the math, and the one loss that could unwind all of it."
+},
+{
+  "title": "Reading the Order Book: Real Buying Pressure vs Fake Walls on Polymarket",
+  "file": "posts/reading-the-order-book-real-vs-fake-walls.html",
+  "category": "beginner",
+  "thumb": "images/liq.jpg",
+  "date": "2026-06-30",
+  "excerpt": "A big buy wall shows up on the book, you trade off it, and it vanishes the second you commit. Here's how to tell a manufactured wall from real on-chain conviction before it costs you."
+},
+{
+  "title": "From -$2.5K to $45K: One Trader's First Year on Polymarket",
+  "file": "posts/from-negative-2-5k-to-45k-one-year-recap.html",
+  "category": "strategy",
+  "thumb": "images/year1.jpg",
+  "date": "2026-07-01",
+  "excerpt": "A trader went from -$2,500 to roughly $45,000 in their first year on Polymarket. This recap breaks down the losses, the turning point, and the shift from betting on outcomes to trading market movement."
+},{
+  "title": "World Cup Strategy: Finding Edge in the Most Crowded Market on Polymarket",
+  "file": "posts/world-cup-strategy-finding-edge-in-crowded-markets.html",
+  "category": "strategy",
+  "thumb": "images/worldcup.jpg",
+  "date": "2026-07-02",
+  "excerpt": "The World Cup is one of Polymarket's most crowded markets. Learn where real trading edge comes from, from lineup changes and incentives to hidden mispricing beyond simple soccer knowledge."
+},
+{
+"title": "Trade Commodities on Polymarket: Gold, Oil, Silver & Natural Gas Without a Futures Account",
+"file": "posts/trade-commodities-on-polymarket-no-futures-account.html",
+"category": "beginner",
+"thumb": "images/com.jpg",
+"date": "2026-07-07",
+"excerpt": "No futures account, no options approval, no leverage headaches. Here's how crude oil, gold, silver, and natural gas markets on Polymarket work like capped-risk options — strike, maturity, and all."
+},
+{
+  "title": "How Polymarket Whales Actually Make Money (It's Not Predictions)",
+  "file": "posts/how-polymarket-whales-actually-make-money.html",
+  "category": "beginner",
+  "thumb": "images/leaderboard.jpg",
+  "date": "2026-07-07",
+  "popular": true,
+  "excerpt": "Leaderboard wallets print six figures a month on Polymarket's fastest markets. They're not better predictors — they're running a completely different game: split/merge, zero fees, and getting paid just to show up."
+},
+{
+  "title": "The Weather Playbook: Polymarket's Most Mispriced Markets",
+  "file": "posts/weather-markets-polymarket-playbook.html",
+  "category": "strategy",
+  "thumb": "images/weather1.jpg",
+  "date": "2026-07-07",
+  "excerpt": "A line like 'NYC High 90°F — 34%' looks meaningless without the forecast behind it — which is exactly why weather markets stay mispriced. Three strategies for trading the gap: cluster the peak, short the dead tails, and front-run the crowd on convergent forecasts."
+},
+{
+  "title": "Sometimes One Trade Is All It Takes: The -$176K to +$125K Argentina Bet",
+  "file": "posts/sometimes-one-trade-is-all-it-takes.html",
+  "category": "strategy",
+  "thumb": "images/argentina.jpeg",
+  "date": "2026-07-08",
+  "popular": true,
+  "excerpt": "Down $176,000 all-time, a trader bought $19,000 of Argentina at 15 cents while trailing Egypt 2-0. Argentina completed the comeback, the trade paid out roughly $125,000, and the account climbed back to nearly even in one shot."
+},
+{
+  "title": "The $35M Market That Couldn't Decide If Ronaldo Cried",
+  "file": "posts/will-ronaldo-cry-at-the-world-cup.html",
+  "category": "weird",
+  "thumb": "images/ronaldo.jpg",
+  "date": "2026-07-08",
+  "popular": true,
+  "excerpt": "$35.6M was wagered on whether Ronaldo would cry at the World Cup. The moment came, the price crashed to 18% then spiked past 99% — and traders still can't agree if it was tears or sweat."
+}
+]
