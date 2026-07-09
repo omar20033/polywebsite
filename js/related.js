@@ -39,7 +39,7 @@
   <img src="${root}${p.thumb}" alt="${p.title}" loading="lazy">
 </div>              <span class="chip ${p.category}">${categoryLabels[p.category] || p.category}</span>
               <h4>${p.title}</h4>
-              <span class="related-author">By ${p.author || "Kifeh Team"}</span>
+              <span class="related-author">By ${p.author || "predictionmarketsacademy Team"}</span>
             </a>`
             )
             .join("")}
