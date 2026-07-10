@@ -81,4 +81,34 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.predictionmarketsacademy.com/posts/how-to-cash-out-on-kalshi.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.predictionmarketsacademy.com/posts/how-to-cash-out-on-polymarket.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.predictionmarketsacademy.com/posts/kalshi-vs-polymarket-which-is-bigger.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.predictionmarketsacademy.com/posts/what-is-a-prediction-market.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.predictionmarketsacademy.com/posts/what-is-kalshi.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.predictionmarketsacademy.com/posts/what-is-polymarket.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
