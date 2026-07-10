@@ -111,4 +111,19 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.predictionmarketsacademy.com/posts/how-to-bet-on-polymarket.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.predictionmarketsacademy.com/posts/how-many-markets-kalshi-vs-polymarket.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.predictionmarketsacademy.com/posts/how-does-polymarket-work.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
