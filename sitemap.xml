@@ -136,5 +136,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+   <url>
+    <loc>https://www.predictionmarketsacademy.com/posts/the-opus-rumor-that-sent-this-market-from-92-to-7.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
   
 </urlset>

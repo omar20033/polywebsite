@@ -105,5 +105,13 @@
   "thumb": "images/brazil.jpg",
   "date": "2026-07-10",
   "excerpt": "Lula is favored at 62%, but that number hides a much messier race. Here's how the six Brazil election markets on Polymarket actually work — and what's been moving the price."
+},
+{
+  "title": "The Rumor That Sent This Market From 92% to 7% in Minutes",
+  "file": "posts/the-opus-rumor-that-sent-this-market-from-92-to-7.html",
+  "category": "strategy",
+  "thumb": "images/opus-rumor-crash.jpg",
+  "date": "2026-07-24",
+  "excerpt": "Polymarket priced a 92% chance the next Claude Opus would ship on July 23. A leaked model picker, a deleted screenshot, and a Thursday-release pattern were enough to get traders there — then nothing shipped, and the odds collapsed to 7% in minutes."
 }
 ]
