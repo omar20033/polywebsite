@@ -161,5 +161,21 @@
   "thumb": "images/polymarket-gambling-cover.jpg",
   "date": "2026-07-29",
   "excerpt": "Federal regulators classify Polymarket as a derivatives exchange, several states call it unlicensed gambling, and consumer advocates warn its interface behaves like one either way. Here's the actual argument on both sides."
+},
+{
+  "title": "Can You Parlay on Kalshi? How Combos Actually Work",
+  "file": "posts/can-you-parlay-on-kalshi.html",
+  "category": "beginner",
+  "thumb": "images/kalshi-parlay-cover.jpg",
+  "date": "2026-07-29",
+  "excerpt": "Kalshi isn't a sportsbook, so there's no traditional parlay — but its Combo feature lets you bundle multiple event contracts into one position priced through a live request-for-quote system."
+},
+{
+  "title": "Kalshi Arbitrage Betting: How It Works and What It Actually Pays",
+  "file": "posts/kalshi-arbitrage-betting.html",
+  "category": "strategy",
+  "thumb": "images/kalshi-arbitrage-cover.jpg",
+  "date": "2026-07-29",
+  "excerpt": "Kalshi arbitrage means locking in a spread between Kalshi's price and a sportsbook's or another prediction market's price on the same outcome. Here's the mechanics, the realistic edge, and what eats into it."
 }
 ]
