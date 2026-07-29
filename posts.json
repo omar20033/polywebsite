@@ -113,5 +113,13 @@
   "thumb": "images/opus-rumor-crash.jpg",
   "date": "2026-07-24",
   "excerpt": "Polymarket priced a 92% chance the next Claude Opus would ship on July 23. A leaked model picker, a deleted screenshot, and a Thursday-release pattern were enough to get traders there — then nothing shipped, and the odds collapsed to 7% in minutes."
+},
+{
+  "title": "How to Arbitrage Polymarket: Finding and Executing Risk-Reduced Trades",
+  "file": "posts/how-to-arbitrage-polymarket.html",
+  "category": "strategy",
+  "thumb": "images/polymarket-arbitrage-cover.jpg",
+  "date": "2026-07-29",
+  "excerpt": "Arbitrage on Polymarket rarely means risk-free profit. Here's how same-market YES/NO gaps, multi-outcome mispricings, and cross-platform spreads against Kalshi actually work — and why gas, slippage, and timing risk eat most of the edge before you collect it."
 }
 ]
