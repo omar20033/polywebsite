@@ -177,5 +177,13 @@
   "thumb": "images/kalshi-arbitrage-cover.jpg",
   "date": "2026-07-29",
   "excerpt": "Kalshi arbitrage means locking in a spread between Kalshi's price and a sportsbook's or another prediction market's price on the same outcome. Here's the mechanics, the realistic edge, and what eats into it."
+},
+{
+  "title": "Kalshi Competitors: How Polymarket and the Rest Actually Compare",
+  "file": "posts/kalshi-competitors.html",
+  "category": "beginner",
+  "thumb": "images/kalshi-competitors-cover.jpg",
+  "date": "2026-07-29",
+  "excerpt": "Polymarket, Crypto.com, Manifold, PredictIt — and traditional sportsbooks moving into event contracts. Here's how Kalshi's real competitors differ on regulation, liquidity, and who each one actually suits."
 }
 ]
