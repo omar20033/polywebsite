@@ -121,5 +121,13 @@
   "thumb": "images/polymarket-arbitrage-cover.jpg",
   "date": "2026-07-29",
   "excerpt": "Arbitrage on Polymarket rarely means risk-free profit. Here's how same-market YES/NO gaps, multi-outcome mispricings, and cross-platform spreads against Kalshi actually work — and why gas, slippage, and timing risk eat most of the edge before you collect it."
+},
+{
+  "title": "Polymarket Competitors: How Kalshi, Manifold, and the Rest Actually Compare",
+  "file": "posts/polymarket-competitors.html",
+  "category": "beginner",
+  "thumb": "images/polymarket-competitors-cover.jpg",
+  "date": "2026-07-29",
+  "excerpt": "Kalshi, Manifold, PredictIt, Metaculus — and now Polymarket US. Here's how Polymarket's main competitors differ on regulation, liquidity, market variety, and who each one actually suits."
 }
 ]
