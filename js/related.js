@@ -12,7 +12,7 @@
   const categoryLabels = {
     beginner: "Beginner Basics",
     strategy: "Trader Strategies",
-    weird: "Weird Markets",
+    howto: "How To",
   };
 
   fetch(root + "posts.json")

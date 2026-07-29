@@ -12,7 +12,7 @@
   const categoryLabels = {
     beginner: "Beginner Basics",
     strategy: "Trader Strategies",
-    weird: "Weird Markets",
+    howto: "How To",
   };
 
   // small flat editorial-style icons, used as a fallback when a post has no real photo

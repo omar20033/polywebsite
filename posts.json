@@ -84,7 +84,7 @@
 {
   "title": "The $35M Market That Couldn't Decide If Ronaldo Cried",
   "file": "posts/will-ronaldo-cry-at-the-world-cup.html",
-  "category": "weird",
+  "category": "strategy",
   "thumb": "images/ronaldo.jpg",
   "date": "2026-07-08",
   "popular": true,
@@ -117,7 +117,7 @@
 {
   "title": "How to Arbitrage Polymarket: Finding and Executing Risk-Reduced Trades",
   "file": "posts/how-to-arbitrage-polymarket.html",
-  "category": "strategy",
+  "category": "howto",
   "thumb": "images/polymarket-arbitrage-cover.jpg",
   "date": "2026-07-29",
   "excerpt": "Arbitrage on Polymarket rarely means risk-free profit. Here's how same-market YES/NO gaps, multi-outcome mispricings, and cross-platform spreads against Kalshi actually work — and why gas, slippage, and timing risk eat most of the edge before you collect it."
@@ -149,7 +149,7 @@
 {
   "title": "How to Parlay on Polymarket: Building Combos Step by Step",
   "file": "posts/how-to-parlay-on-polymarket.html",
-  "category": "beginner",
+  "category": "howto",
   "thumb": "images/polymarket-parlay-cover.jpg",
   "date": "2026-07-29",
   "excerpt": "Polymarket isn't a sportsbook, but it does let you combine multiple sports picks into a single Combo trade. Here's how the parlay-style feature actually works, how pricing is set, and what to watch for."
@@ -157,7 +157,7 @@
 {
   "title": "Is Polymarket Gambling? The Case for Both Sides",
   "file": "posts/is-polymarket-gambling.html",
-  "category": "beginner",
+  "category": "howto",
   "thumb": "images/polymarket-gambling-cover.jpg",
   "date": "2026-07-29",
   "excerpt": "Federal regulators classify Polymarket as a derivatives exchange, several states call it unlicensed gambling, and consumer advocates warn its interface behaves like one either way. Here's the actual argument on both sides."
@@ -165,7 +165,7 @@
 {
   "title": "Can You Parlay on Kalshi? How Combos Actually Work",
   "file": "posts/can-you-parlay-on-kalshi.html",
-  "category": "beginner",
+  "category": "howto",
   "thumb": "images/kalshi-parlay-cover.jpg",
   "date": "2026-07-29",
   "excerpt": "Kalshi isn't a sportsbook, so there's no traditional parlay — but its Combo feature lets you bundle multiple event contracts into one position priced through a live request-for-quote system."
@@ -173,13 +173,13 @@
 {
   "title": "Kalshi Arbitrage Betting: How It Works and What It Actually Pays",
   "file": "posts/kalshi-arbitrage-betting.html",
-  "category": "strategy",
+  "category": "howto",
   "thumb": "images/kalshi-arbitrage-cover.jpg",
   "date": "2026-07-29",
   "excerpt": "Kalshi arbitrage means locking in a spread between Kalshi's price and a sportsbook's or another prediction market's price on the same outcome. Here's the mechanics, the realistic edge, and what eats into it."
 },
 {
-  "title": "Kalshi Competitors: How Polymarket and the Rest Actually Compare",
+  "title": "Kalshi Competitors",
   "file": "posts/kalshi-competitors.html",
   "category": "beginner",
   "thumb": "images/kalshi-competitors-cover.jpg",

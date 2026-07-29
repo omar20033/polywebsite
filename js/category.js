@@ -13,7 +13,7 @@
   const categoryLabels = {
     beginner: "Beginner Basics",
     strategy: "Trader Strategies",
-    weird: "Weird Markets",
+    howto: "How-To",
   };
 
   const ICONS = window.SITE_ICONS || {};
