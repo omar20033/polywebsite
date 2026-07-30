@@ -193,5 +193,13 @@
   "thumb": "images/2028-election.jpg",
   "date": "2026-07-30",
   "excerpt": "Vance is the narrow favorite at 19%, but that headline number hides two separate primaries — a GOP race where Vance actually leads Rubio decisively, and a wide-open Democratic field with no clear frontrunner. Here's how to read all three markets."
+},
+{
+  "title": "Polymarket Slippage Explained: Why Your Fill Price Isn't the Quoted Price",
+  "file": "posts/polymarket-slippage-explained.html",
+  "category": "beginner",
+  "thumb": "images/slippage.jpg",
+  "date": "2026-07-30",
+  "excerpt": "The order book shows 53¢, but your fill comes in at 53.5¢. Here's what slippage actually is on Polymarket's order book, why market orders walk through price levels, how to calculate it in basis points, and how limit orders let you avoid it entirely."
 }
 ]
