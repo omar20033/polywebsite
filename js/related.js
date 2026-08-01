@@ -15,13 +15,21 @@
     howto: "How To",
   };
 
+  function shuffle(arr) {
+    const a = arr.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
   fetch(root + "posts.json")
     .then((res) => res.json())
     .then((data) => {
-      const others = data
-        .filter((p) => p.file !== currentFile)
-        .sort((a, b) => new Date(b.date) - new Date(a.date))
-        .slice(0, 4);
+      const others = shuffle(
+        data.filter((p) => p.file !== currentFile)
+      ).slice(0, 8);
 
       if (others.length === 0) {
         container.remove();
