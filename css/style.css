@@ -330,6 +330,15 @@ main{ padding-bottom:70px; }
   font-family:var(--font-display); font-weight:700; font-size:21px;
   margin:30px 0 12px;
 }
+
+.post-body a {
+    color: #2563eb;
+    text-decoration: underline;
+  }
+.post-body a:hover {
+    color: #1d4ed8;
+  }
+
 .post-body ul, .post-body ol{ margin:0 0 17px 20px; }
 .post-body li{ margin-bottom:6px; }
 .post-body strong{ color:var(--text); }
