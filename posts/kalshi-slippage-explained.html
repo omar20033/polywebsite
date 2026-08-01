@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MGVT449FKZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MGVT449FKZ');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kalshi Slippage Explained (Aug 2026) </title>
+<meta name="description" content="The order book shows 32¢, but your fill comes in at 35¢. Here's what slippage actually is on Kalshi, why it happens, how to calculate it, and how to trade around it.">
+<link rel="canonical" href="https://www.predictionmarketsacademy.com/posts/kalshi-slippage-explained.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Kalshi Slippage Explained(Aug 2026)">
+<meta property="og:description" content="The order book shows 32¢, but your fill comes in at 35¢. Here's what slippage actually is on Kalshi, why it happens, how to calculate it, and how to trade around it.">
+<meta property="og:url" content="https://www.predictionmarketsacademy.com/posts/kalshi-slippage-explained.html">
+<meta property="og:image" content="https://www.predictionmarketsacademy.com/images/kalshi-slippage.jpg">
+<meta property="og:site_name" content="predictionmarketsacademy">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Kalshi Slippage Explained (Aug 2026)">
+<meta name="twitter:description" content="The order book shows 32¢, but your fill comes in at 35¢. Here's what slippage actually is on Kalshi, why it happens, how to calculate it, and how to trade around it.">
+<meta name="twitter:image" content="https://www.predictionmarketsacademy.com/images/kalshi-slippage.jpg">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Kalshi Slippage Explained (Aug 2026)",
+  "description": "The order book shows 32¢, but your fill comes in at 35¢. Here's what slippage actually is on Kalshi, why it happens, how to calculate it, and how to trade around it.",
+  "image": "https://www.predictionmarketsacademy.com/images/kalshi-slippage.jpg",
+  "datePublished": "2026-08-01",
+  "dateModified": "2026-08-01",
+  "author": { "@type": "Organization", "name": "predictionmarketsacademy" },
+  "publisher": { "@type": "Organization", "name": "predictionmarketsacademy" },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.predictionmarketsacademy.com/posts/kalshi-slippage-explained.html" }
+}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@600;700&family=Space+Grotesk:wght@600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/style.css">
+<script>window.SITE_ROOT = "../";</script>
+</head>
+<body data-post-file="posts/kalshi-slippage-explained.html">
+
+<div data-include="navbar"></div>
+
+<main>
+  <div class="wrap wrap-post post-shell">
+    <aside class="toc" id="toc">
+      <div class="toc-label">Table of Contents</div>
+      <nav id="toc-nav"></nav>
+    </aside>
+    <article class="post">
+      <div class="post-meta">
+        <span class="chip beginner">Beginner</span>
+        <span>Aug 1, 2026</span>
+      </div>
+      <h1>Kalshi Slippage Explained: Why Your Fill Price Isn't the Quoted Price</h1>
+      <div class="post-thumb">
+        <img src="../images/kalshi-slippage.jpg" alt="Kalshi slippage explained" style="width:100%;height:auto;border-radius:inherit;">
+      </div>
+      <div class="post-body" id="post-body">
+
+        <h2>The short answer</h2>
+        <p>Slippage is the gap between the price a Kalshi order book shows you before you trade and the average price you actually pay once your order is filled. It happens because a market order doesn't fill at a single price — it works through the book, taking resting contracts level by level until your full size is filled or the book runs out. On a heavily traded market like a Fed rate decision or a major economic release, a modest order might barely move the price. On a niche or newly listed event market, that same order can leave you paying several cents more per contract than the top-of-book quote suggested. Knowing your real slippage is what separates a strategy that looks good in theory from one that actually holds up once execution costs are counted.</p>
+
+        <h2>Why slippage happens on Kalshi's order book</h2>
+        <p>Kalshi runs a central limit order book, and every contract trades in whole cents between 1¢ and 99¢. What traders call a "market order" is really a marketable limit order — one priced aggressively enough to sweep through whatever Yes or No contracts are already resting in the book. Liquidity sits in discrete price levels: some number of contracts available at the best price, more at the next cent, more after that. If your order is larger than what's resting at the top level, it automatically continues into the next level, and the next, until it's filled. Because Kalshi's tick size is a full cent rather than a fraction of one, each level you walk through can represent a meaningfully bigger price jump than on markets with finer pricing. The blended average price you end up paying, compared with the best price showing when you placed the order, is your slippage.</p>
+
+        <h2>A concrete example</h2>
+        <p>Say the best offer on a Yes contract is 32¢. That's the quote you see. But only 400 contracts are actually resting at 32¢, another 600 at 33¢, and you're trying to buy 2,000 contracts. The remaining 1,000 have to fill at 34¢ and 35¢. Your blended average fill lands well above the 32¢ you started at — not because news moved the market, but because your own order size outran the visible depth. It's common to express this gap in basis points: the percentage difference between the reference price and your actual average fill, multiplied by 10,000. If your model expects 45 basis points of edge on a trade but execution costs you 60, you were already behind before fees came out.</p>
+
+        <h2>What drives how much you'll pay</h2>
+        <p>A handful of factors decide whether slippage on a given Kalshi trade is trivial or costly:</p>
+        <p><strong>Market liquidity.</strong> High-interest markets — Fed decisions, major elections, headline economic data — tend to carry deep, tight books that can absorb sizable orders with little price impact. The majority of listed markets, especially long-tail or newly launched ones, are far thinner, and even a small order can move the price a full cent or more.</p>
+        <p><strong>Order size relative to book depth.</strong> The larger your order relative to what's resting at each cent, the more levels it has to walk through, and the worse your blended average fill becomes.</p>
+        <p><strong>Spread width and book shape.</strong> A narrow bid-ask spread with balanced depth on both the Yes and No sides signals a well-quoted market. A wide spread, or a book that's deep on one side and thin on the other, means liquidity is lopsided — cheap to trade with the deep side, expensive against it.</p>
+        <p><strong>Maker vs. taker flow.</strong> Kalshi's fee structure and its liquidity incentive programs are built to reward resting orders that add depth, which is exactly the liquidity that keeps slippage low for everyone trading against the book. When market makers pull back — around a surprising headline or late in a fast-moving event — that depth can thin out quickly.</p>
+        <p><strong>Timing.</strong> A surprise data print, a late shift in a game, or breaking news can empty out several price levels within seconds as makers reprice or step away, which is precisely when slippage tends to spike.</p>
+
+        <h2>How to actually calculate it</h2>
+        <p>The formula is simple. For a buy: slippage = (average fill price − reference price) ÷ reference price. For a sell, it's the reverse. The reference price is typically the best quoted price at the moment you placed the order — top-of-book ask for a buy, top-of-book bid for a sell. Converting the result to basis points (multiply by 100 for a percentage, or by 10,000 for basis points) lets you compare slippage across markets priced very differently, and lets you check whether a strategy's edge actually survives once slippage and taker fees are subtracted from it.</p>
+
+        <h2>Market orders vs. limit orders</h2>
+        <p>The biggest lever you have over slippage is order type. A market order buys you certainty of a fill but hands over control of price — you take whatever the book gives you, cent by cent, as it fills. A limit order reverses that trade-off: you name the price, the order only fills if the market reaches it, and you never pay more than you specified. Because Kalshi's fee schedule generally charges takers more than makers, placing a resting limit order instead of sweeping the book usually means lower fees on top of avoiding slippage by definition — and on markets running a liquidity incentive program, resting orders can even earn a reward whether or not they get filled. The cost is time: in a fast-moving market, a limit order that never gets touched means you simply don't trade, and there are moments when paying up for the certainty of a market order is worth it.</p>
+
+        <h2>Practical ways to reduce slippage</h2>
+        <p>A few habits make a real difference:</p>
+        <p><strong>Check the order book, not just the last traded price.</strong> The last print tells you nothing about how much size is actually resting behind it. Look at the depth at each price level before you size a trade.</p>
+        <p><strong>Break large orders into smaller pieces.</strong> Splitting a big position into several smaller orders spread over time lets the book refill between fills instead of getting swept through multiple cents at once.</p>
+        <p><strong>Default to limit orders when you're not in a rush.</strong> If a trade isn't time-sensitive, naming your price and waiting is close to a free option on avoiding slippage — and it can lower your fees too.</p>
+        <p><strong>Be extra careful on thin or newly listed markets.</strong> Long-tail event markets can have very little resting depth on either side, so even a modest position can move the price by several cents.</p>
+        <p><strong>Watch for news-driven windows.</strong> Right after a surprising headline or data release, books can thin out fast as makers step back to reprice. Waiting a few minutes for liquidity to return often cuts execution cost meaningfully.</p>
+
+        <h2>The bigger picture</h2>
+        <p>Slippage isn't a hidden fee or a flaw in the platform — it's simply the visible cost of demanding immediate execution from a market that has finite depth at any given price. Every central limit order book behaves this way, on Kalshi or anywhere else. Traders who do best over time tend to treat the order book as information rather than just a price ticker: they size positions relative to visible depth, lean on resting limit orders when they can afford to wait, and build expected slippage into whether a trade is worth making in the first place.</p>
+
+        <p style="margin-top:32px; padding:16px 20px; border:1px solid var(--border); border-radius:10px; background:var(--surface); color:var(--muted); font-size:14px;"><strong>Disclaimer:</strong> This post is for informational purposes only and is not financial or investment advice. Market conditions, liquidity, and fee structures change continuously — always check live prices and order book depth at <a href="https://kalshi.com" target="_blank" rel="noopener">kalshi.com</a> before trading.</p>
+
+      </div>
+      <a class="back-link" href="../index.html">← Back to all posts</a>
+    </article>
+  </div>
+  <div class="wrap wrap-post related-wrap">
+    <div id="related"></div>
+  </div>
+</main>
+
+<div data-include="footer"></div>
+
+<script src="../js/icons.js"></script>
+<script src="../js/include.js"></script>
+<script src="../js/toc.js"></script>
+<script src="../js/related.js"></script>
+</body>
+</html>

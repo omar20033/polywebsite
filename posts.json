@@ -201,5 +201,13 @@
   "thumb": "images/slippage.jpg",
   "date": "2026-07-30",
   "excerpt": "The order book shows 53¢, but your fill comes in at 53.5¢. Here's what slippage actually is on Polymarket's order book, why market orders walk through price levels, how to calculate it in basis points, and how limit orders let you avoid it entirely."
+},
+{
+  "title": "Kalshi Slippage Explained: Why Your Fill Price Isn't the Quoted Price",
+  "file": "posts/kalshi-slippage-explained.html",
+  "category": "howto",
+  "thumb": "images/kalshi-slippage.jpg",
+  "date": "2026-08-01",
+  "excerpt": "The order book shows 32¢, but your fill comes in at 35¢. Here's what slippage actually is on Kalshi's order book, why market orders walk through whole-cent price levels, how to calculate it in basis points, and how limit orders let you avoid it entirely."
 }
 ]
