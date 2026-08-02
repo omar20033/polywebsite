@@ -217,5 +217,13 @@
   "thumb": "images/polymarket-copy-trade.jpg",
   "date": "2026-08-01",
   "excerpt": "There's no built-in copy button on Polymarket, so every copy trading setup works the same way: watch a wallet's trades, size a match, and fire it through the CLOB API. Here's how that pipeline works, the difference between self-hosted bots and hosted platforms, and what to check before connecting a wallet."
+},
+{
+  "title": "Polymarket's Vinicius Jr. Transfer Market: What the Odds Actually Say",
+  "file": "posts/polymarket-vinicius-junior-transfer-market.html",
+  "category": "market-watch",
+  "thumb": "images/vini.jpg",
+  "date": "2026-07-29",
+  "excerpt": "Polymarket is running a live prediction market on where Vinicius Junior will play next, with Real Madrid the heavy favorite to retain him. Here's how the market is priced, what moved it, and how to read it."
 }
 ]
