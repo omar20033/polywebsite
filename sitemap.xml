@@ -236,6 +236,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.predictionmarketsacademy.com/posts/michigan-senate-primary-kalshi.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 
 </urlset>
